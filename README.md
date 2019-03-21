@@ -12,4 +12,4 @@ ________________________________________________________________________________
 
 
 
-*initial code for js, html, and cs supplied by Jonas Schmedtmann as part of his Udemy course "The Completel JavaScript Course 2019*
+*initial code for js, html, and cs supplied by Jonas Schmedtmann as part of his Udemy course "The Completel JavaScript Course 2019"*
